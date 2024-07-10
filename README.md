@@ -47,13 +47,13 @@ Add it to your configuration file.
 Running the App 🏃‍♂️
 Start the development server:
 
-```sh
 Copy code
+```sh
 npm start
 # or if you use yarn
 yarn start
-Open your browser and go to http://localhost:3000.
 ```
+Open your browser and go to http://localhost:3000.
 
 Creating a Post 📝
 Log in with your user account.
@@ -63,9 +63,9 @@ Hit 'Publish' and watch your post go live!
 Contributing 🤝
 We welcome contributions with open arms! Feel free to fork the repo, make some changes, and submit a pull request. Or just open an issue if you find a bug. Bugs are like mosquitoes, and we’re here to squash them! 🐛
 
-License 📜
+***License 📜***
 This project is licensed under the MIT License.
 
 Enjoy blogging with BlogApp! May your posts be insightful and your readers plentiful. And remember: with great power comes great responsibility. Use your blogging powers wisely! 😉
 
-###Happy Coding! 💻✨
+### Happy Coding! 💻✨
