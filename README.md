@@ -1,10 +1,12 @@
 BlogApp 🚀
+
 Welcome to BlogApp, the coolest way to share your thoughts, stories, and cat memes on the internet! Built with React 6 and Appwrite, and powered by the awesome TinyMCE React editor, BlogApp is your one-stop shop for all things bloggy. 🎉
 
 Features ✨
 Create New Posts: Express yourself with the TinyMCE editor. It's like Microsoft Word, but for blogging! 📝
 Appwrite Backend: Secure, scalable, and packed with features you didn’t know you needed. Thanks, Appwrite! 🛠️
 React 6: Because we like to keep things fresh and modern. 🍃
+
 Getting Started 🚀
 Ready to dive in? Great! Let’s get you set up.
 
