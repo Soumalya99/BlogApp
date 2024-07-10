@@ -2,6 +2,7 @@
 
 Welcome to **BlogApp**, the coolest way to share your thoughts, stories, and cat memes on the internet! Built with React 6 and Appwrite, and powered by the awesome TinyMCE React editor, BlogApp is your one-stop shop for all things bloggy. 🎉
 
+### Feel free to update new features
 ## Features ✨
 
 - **Create New Posts**: Express yourself with the TinyMCE editor. It's like Microsoft Word, but for blogging! 📝
